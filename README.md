@@ -7,8 +7,13 @@ The dataset contains comprehensive details on food orders, including Order ID, C
 ### Task is to conduct:
 **Detailed Cost Analysis:** Identifying the major cost components associated with delivering food orders, including direct costs like delivery fees and indirect costs like discounts and payment processing fees.
 
-**Profitability Evaluation:** Calculating the profitability of individual orders and aggregating this data to assess overall profitability. This involves examining how revenue generated from commission fees measures against the total costs.
+**Profitability Evaluation:** Calculating the profitability of individual orders and aggregating this data to assess overall profitability. This involves examining how revenue generated from commission fees is measured against the total costs.
 
-**Strategic Recommendations for Improvement:** Based on the cost and profitability analysis, identifying actionable strategies to reduce costs, adjust pricing, commission fees, and discount strategies to improve profitability. This includes finding a “sweet spot” for commission and discount percentages that ensures profitability across orders.
+**Strategic Recommendations for Improvement:** Based on the cost and profitability analysis, identify actionable strategies to reduce costs, and adjust pricing, commission fees, and discount strategies to improve profitability. This includes finding a “sweet spot” for commission and discount percentages that ensures profitability across orders.
 
 **Impact Simulation of Proposed Strategies:** Simulating the financial impact of the recommended strategies on profitability, using the dataset to forecast how adjustments in commission rates and discount strategies could potentially transform current losses into profits.
+
+
+### Summary:
+
+Understanding the cost and profitability of a food delivery company entails a comprehensive examination of all the expenses linked to delivering food orders. This includes direct costs such as delivery fees and packaging, as well as indirect expenditures like customer discounts and restaurant commission fees. By comparing these costs to the revenue generated, predominantly through order values and commission fees, this analysis seeks to offer insights into the profitability of the food delivery service on a per-order basis.
