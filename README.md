@@ -1,4 +1,4 @@
-# Optimizing Cost and Profitability
+# Statistical Analysis to optimize Cost
 
 A food delivery service is facing challenges in achieving profitability across its operations. With a dataset of 1,000 food orders, the service seeks to understand the dynamics of its cost structure and profitability to identify strategic opportunities for improvement.
 
